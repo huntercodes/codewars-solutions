@@ -85,3 +85,11 @@ https://www.codewars.com/kata/5a045fee46d843effa000070
 
 ##
 
+## RGB to Hex Conversion
+
+https://www.codewars.com/kata/513e08acc600c94f01000001
+
+![image](https://user-images.githubusercontent.com/85328038/217996946-8967d914-5428-446d-a11c-fb4e5012b7ff.png)
+
+##
+
