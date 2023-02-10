@@ -76,3 +76,12 @@ https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
 ![image](https://user-images.githubusercontent.com/85328038/217996299-20318387-d60c-46c6-a85c-53198b06264a.png)
 
 ##
+
+## Factorial decomposition
+
+https://www.codewars.com/kata/5a045fee46d843effa000070
+
+![image](https://user-images.githubusercontent.com/85328038/217996409-a0e4f5b7-fd34-459d-b935-feeb22ef37b9.png)
+
+##
+
