@@ -44,3 +44,11 @@ https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 ![image](https://user-images.githubusercontent.com/85328038/217995673-218999ea-46eb-4965-b204-5f176acaa89c.png)
 
 ##
+
+## Stop gninnipS My sdroW
+
+https://www.codewars.com/kata/5264d2b162488dc400000001
+
+![image](https://user-images.githubusercontent.com/85328038/217995969-8dd580a0-5045-4373-a536-227450250c67.png)
+
+##
