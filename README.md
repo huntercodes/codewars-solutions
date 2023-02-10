@@ -165,3 +165,10 @@ https://www.codewars.com/kata/5263a84ffcadb968b6000513
 
 ##
 
+## The Look and Say sequence
+
+https://www.codewars.com/kata/5263c5d011f4233c9d000561
+
+![image](https://user-images.githubusercontent.com/85328038/217997933-1c0d00d7-a16b-49c9-a2a6-680e08682464.png)
+
+##
