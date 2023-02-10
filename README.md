@@ -1,7 +1,7 @@
 
-## codewars solutions
+## Codewars Solutions
 
-various solutions i have completed on codewars
+Various solutions that I have completed on codewars.com
 
 ##
 
@@ -13,3 +13,10 @@ https://www.codewars.com/kata/598f76a44f613e0e0b000026
 
 ##
 
+## Bouncing Balls
+
+https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+
+![image](https://user-images.githubusercontent.com/85328038/217995335-502fd478-da24-452a-b611-0f5589c41bcd.png)
+
+##
