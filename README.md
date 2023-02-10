@@ -109,3 +109,11 @@ https://www.codewars.com/kata/573992c724fc289553000e95
 
 ##
 
+## Best travel
+
+https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+![image](https://user-images.githubusercontent.com/85328038/217997268-08bd3375-a331-4ccd-9ec4-209ad5d1ad11.png)
+
+##
+
