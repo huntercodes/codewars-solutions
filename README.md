@@ -60,3 +60,12 @@ https://www.codewars.com/kata/541c8630095125aba6000c00
 ![image](https://user-images.githubusercontent.com/85328038/217996071-3dca1dbe-bd5f-483b-b473-c0cdb5e50499.png)
 
 ##
+
+## Descending Order
+
+https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+
+![image](https://user-images.githubusercontent.com/85328038/217996194-3cbb4a52-3d38-48bf-b91c-bff97ab800b5.png)
+
+##
+
