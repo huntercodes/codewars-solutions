@@ -133,3 +133,11 @@ https://www.codewars.com/kata/55c6126177c9441a570000cc
 
 ##
 
+## Flatten and sort an array
+
+https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
+
+![image](https://user-images.githubusercontent.com/85328038/217997549-ec21446c-7925-496f-81ab-19049339825a.png)
+
+##
+
