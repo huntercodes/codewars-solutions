@@ -52,3 +52,11 @@ https://www.codewars.com/kata/5264d2b162488dc400000001
 ![image](https://user-images.githubusercontent.com/85328038/217995969-8dd580a0-5045-4373-a536-227450250c67.png)
 
 ##
+
+## Sum of Digits / Digital Root
+
+https://www.codewars.com/kata/541c8630095125aba6000c00
+
+![image](https://user-images.githubusercontent.com/85328038/217996071-3dca1dbe-bd5f-483b-b473-c0cdb5e50499.png)
+
+##
