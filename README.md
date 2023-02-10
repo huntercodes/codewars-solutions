@@ -101,3 +101,11 @@ https://www.codewars.com/kata/573182c405d14db0da00064e
 
 ##
 
+## Find the smallest 
+
+https://www.codewars.com/kata/573992c724fc289553000e95
+
+![image](https://user-images.githubusercontent.com/85328038/217997173-d2945aff-8163-46d2-a49e-c3ec9677ec2e.png)
+
+##
+
