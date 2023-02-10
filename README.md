@@ -69,3 +69,10 @@ https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 
 ##
 
+## Duplicate Encoder
+
+https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
+
+![image](https://user-images.githubusercontent.com/85328038/217996299-20318387-d60c-46c6-a85c-53198b06264a.png)
+
+##
