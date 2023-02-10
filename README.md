@@ -20,3 +20,11 @@ https://www.codewars.com/kata/5544c7a5cb454edb3c000047
 ![image](https://user-images.githubusercontent.com/85328038/217995335-502fd478-da24-452a-b611-0f5589c41bcd.png)
 
 ##
+
+## Shortest Word
+
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+
+![image](https://user-images.githubusercontent.com/85328038/217995477-d9a283eb-5756-4833-850f-e2fd6e06e359.png)
+
+##
