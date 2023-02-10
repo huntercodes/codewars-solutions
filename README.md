@@ -5,9 +5,9 @@ various solutions i have completed on codewars
 
 ##
 
-### https://www.codewars.com/kata/598f76a44f613e0e0b000026
-
 ## Sum of integers in string
+
+https://www.codewars.com/kata/598f76a44f613e0e0b000026
 
 func sumOfIntegersInString(_ string: String) -> Int {
     var sum = 0
