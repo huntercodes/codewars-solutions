@@ -157,3 +157,11 @@ https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 
 ##
 
+## Square Matrix Multiplication
+
+https://www.codewars.com/kata/5263a84ffcadb968b6000513
+
+![image](https://user-images.githubusercontent.com/85328038/217997846-95d3462b-e4eb-467a-af9c-505b0bbc476c.png)
+
+##
+
