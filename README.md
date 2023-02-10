@@ -141,3 +141,11 @@ https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
 
 ##
 
+## Write Number in Expanded Form
+
+https://www.codewars.com/kata/5842df8ccbd22792a4000245
+
+![image](https://user-images.githubusercontent.com/85328038/217997638-b9babefa-5b17-4bdd-811a-ccec23360ca9.png)
+
+##
+
