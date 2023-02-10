@@ -117,3 +117,11 @@ https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
 
 ##
 
+## Count the Digit
+
+https://www.codewars.com/kata/566fc12495810954b1000030
+
+![image](https://user-images.githubusercontent.com/85328038/217997356-04713891-986d-41d0-8b00-841bccaea5c2.png)
+
+##
+
