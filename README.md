@@ -149,3 +149,11 @@ https://www.codewars.com/kata/5842df8ccbd22792a4000245
 
 ##
 
+## Mexican Wave
+
+https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
+
+![image](https://user-images.githubusercontent.com/85328038/217997726-d93e532e-7728-4a57-b9a5-aa67ebd9f54d.png)
+
+##
+
