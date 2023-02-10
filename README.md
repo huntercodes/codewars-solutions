@@ -125,3 +125,11 @@ https://www.codewars.com/kata/566fc12495810954b1000030
 
 ##
 
+## Weight for weight
+
+https://www.codewars.com/kata/55c6126177c9441a570000cc
+
+![image](https://user-images.githubusercontent.com/85328038/217997457-bfae6439-ae30-4d03-abe7-1cd6515b9c7f.png)
+
+##
+
