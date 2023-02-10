@@ -36,3 +36,11 @@ https://www.codewars.com/kata/5a03b3f6a1c9040084001765
 ![image](https://user-images.githubusercontent.com/85328038/217995567-53571d47-c669-4f88-b1f0-2dbd8e11b291.png)
 
 ##
+
+## Sum of Minimums!
+
+https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
+
+![image](https://user-images.githubusercontent.com/85328038/217995673-218999ea-46eb-4965-b204-5f176acaa89c.png)
+
+##
