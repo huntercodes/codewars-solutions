@@ -93,3 +93,11 @@ https://www.codewars.com/kata/513e08acc600c94f01000001
 
 ##
 
+## Consecutive k-Primes
+
+https://www.codewars.com/kata/573182c405d14db0da00064e
+
+![image](https://user-images.githubusercontent.com/85328038/217997098-c8cb5d5b-5336-43b9-972e-a82aa1d296ca.png)
+
+##
+
